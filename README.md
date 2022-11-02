@@ -44,4 +44,3 @@ java -jar myApp.jar bruteForce folder/textFile1.txt folder/textExample.txt   // 
 (по умолчанию, если параметра нет - язык EN). Пример java -jar myApp.jar encode folder/textFile1.txt 20 RU
 - Алгоритм bruteforce не реализован
 - Программа производит проверку вводимых параметров (самые основные проверки) и кидает эксепшены, если что-то не ОК
-- В репозитории есть готовые тексты для тестов

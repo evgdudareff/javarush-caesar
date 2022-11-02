@@ -1,3 +1,0 @@
-main-class: caesar.CaesarCrypto
-class-path: bin/
-
